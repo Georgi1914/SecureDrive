@@ -1,0 +1,6 @@
+[submodule "ChechnyaStoneLifters"]
+	path = ChechnyaStoneLifters
+	url = git@github.com:dashkata/ChechnyaStoneLifters.git
+[submodule "chechenca-be"]
+	path = chechenca-be
+	url = git@github.com:kaloyanchkrv/chechenca-be.git
